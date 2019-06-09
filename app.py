@@ -1,5 +1,6 @@
-import numpy as np
 from flask import Flask
+
+import numpy as np
 from math import sqrt
 
 from scipy.optimize import minimize
